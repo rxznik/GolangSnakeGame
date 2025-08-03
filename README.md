@@ -13,9 +13,9 @@ Snake Game implementation in Golang using Ebiten Game Engine
 
 Download the game for your platform:
 
-* [Windows](https://github.com/rxznik/GolangSnakeGame/bin/windows/)
-* [Linux](https://github.com/rxznik/GolangSnakeGame/bin/linux/) (Comming soon)
-* [macOS](https://github.com/rxznik/GolangSnakeGame/bin/macOS/)
+* [Windows](https://github.com/rxznik/GolangSnakeGame/tree/main/bin/windows/)
+* [Linux](https://github.com/rxznik/GolangSnakeGame/tree/main/bin/linux/) (Comming soon)
+* [macOS](https://github.com/rxznik/GolangSnakeGame/tree/main/bin/macOS/)
 
 Use arrow keys or WASD to move snake. Eat food to grow. Game over when snake hits itself or wall.
 
